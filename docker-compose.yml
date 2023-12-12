@@ -1,0 +1,18 @@
+version: "3.6"
+services:
+  app:
+    image: talk_tests
+    container_name: talk_tests_app
+    environment:
+      - PYTHONPATH=/app
+      - SQLALCHEMY_WARN_20=1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn app.controller.main_controller:app --reload --host 0.0.0.0
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
