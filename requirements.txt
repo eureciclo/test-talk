@@ -9,3 +9,4 @@ mock==5.1.0
 aiosqlite==0.19.0
 uvicorn[standard]==0.24.0.post1
 pytest-asyncio==0.23.2
+aiofiles==23.2.1
