@@ -16,6 +16,12 @@
         - Factories
         - Mocks / stubs
         - Regras de boa convivência
+    - desmistificando testes
+        - teste torna o desenvolvimento mais lento (no inicio do projeto)
+        - mas quanto mais tempo o projeto tem, mais os testes se pagam
+        - então teste é um investimento no futuro
+        - projeto tem: comeco, meio e f..
+            - testes são para tornar o f, fim.
     - apresentar o projeto
 
 1. github_service - url_for
