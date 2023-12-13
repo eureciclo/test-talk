@@ -16,6 +16,7 @@
         - Factories
         - Mocks / stubs
         - Regras de boa convivência
+    - apresentar o projeto
 
 1. github_service - url_for
     - teste simples
