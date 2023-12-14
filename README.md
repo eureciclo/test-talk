@@ -1,6 +1,8 @@
 Talk Tests
 ==========
 
+![Testing Me](https://raw.githubusercontent.com/eureciclo/test-talk/main/test-meme.jpg)
+
 Talk de testes - eureciclo - 14/12/2023
 
 
